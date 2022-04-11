@@ -1,0 +1,12 @@
+{
+  "name": "lam-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LamKingTak",
+  "license": "ISC",
+  "keywords": ["utils", "format", "money", "phone"]
+}
