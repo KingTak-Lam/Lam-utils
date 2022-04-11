@@ -1,6 +1,6 @@
 {
   "name": "lam-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,10 @@
   },
   "author": "LamKingTak",
   "license": "ISC",
-  "keywords": ["utils", "format", "money", "phone"]
+  "keywords": [
+    "utils",
+    "format",
+    "money",
+    "phone"
+  ]
 }
